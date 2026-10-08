@@ -2,10 +2,29 @@ $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
   title: BK STUDIO Docs
   structure:
-    - type: space
-      key: space-1
-      title: Untitled
-      path: untitled
+    - type: section
+      key: section-1
+      title: BK STUDIO Docs
+      path: bk-studio-docs
       default: true
-      content:
-        directory: ./untitled
+      children:
+        - type: space
+          key: space-1
+          title: Untitled
+          path: untitled
+          default: true
+          content:
+            directory: ./untitled
+    - type: section
+      key: section-2
+      title: job creator
+      path: job-creator
+      children:
+        - type: space
+          key: space-2
+          title: job creator
+          path: job-creator
+          default: true
+          draft: true
+          content:
+            directory: null
