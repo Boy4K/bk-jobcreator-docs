@@ -6,6 +6,7 @@ site:
       key: section-2
       title: job creator
       path: job-creator
+      description: ""
       default: true
       children:
         - type: space
