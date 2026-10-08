@@ -5,7 +5,7 @@ site:
     - type: section
       key: section-2
       title: job creator
-      path: job-creator
+      path: job_creator
       description: ""
       default: true
       children:
