@@ -2,7 +2,7 @@
 
 The hammer icon places the workbenches; **Crafting recipes** (in the list of positions) edits the recipes.
 
-<figure><img src="https://raw.githubusercontent.com/Boy4K/bk-jobcreator-docs/main/bk-jobcreator-docs/assets/crafting.jpg" alt="Recipes and where the ingredients come from"><figcaption><p>Recipes and where the ingredients come from</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/Boy4K/bk-jobcreator-docs/main/assets/crafting.jpg" alt="Recipes and where the ingredients come from"><figcaption><p>Recipes and where the ingredients come from</p></figcaption></figure>
 
 ## Recipes
 

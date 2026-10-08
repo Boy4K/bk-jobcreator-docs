@@ -2,7 +2,7 @@
 
 An area you draw on the ground. It can pay a wage for the time spent inside, spawn litter to clean, or both.
 
-<figure><img src="https://raw.githubusercontent.com/Boy4K/bk-jobcreator-docs/main/bk-jobcreator-docs/assets/work-zones.jpg" alt="The work zones of a venue"><figcaption><p>The work zones of a venue</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/Boy4K/bk-jobcreator-docs/main/assets/work-zones.jpg" alt="The work zones of a venue"><figcaption><p>The work zones of a venue</p></figcaption></figure>
 
 ## Drawing a zone
 
@@ -23,4 +23,4 @@ Litter appears on its own at the spots you place, up to a maximum at once. Clean
 
 Time to the next wage, the wage, colleagues in the zone, level and XP. The boss sees who is in the zone.
 
-<figure><img src="https://raw.githubusercontent.com/Boy4K/bk-jobcreator-docs/main/bk-jobcreator-docs/assets/shift-hud.jpg" alt="The shift HUD"><figcaption><p>The shift HUD</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/Boy4K/bk-jobcreator-docs/main/assets/shift-hud.jpg" alt="The shift HUD"><figcaption><p>The shift HUD</p></figcaption></figure>

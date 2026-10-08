@@ -2,7 +2,7 @@
 
 The car icon opens the garage manager.
 
-<figure><img src="https://raw.githubusercontent.com/Boy4K/bk-jobcreator-docs/main/bk-jobcreator-docs/assets/garage.jpg" alt="Attendant, vehicle exit and return"><figcaption><p>Attendant, vehicle exit and return</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/Boy4K/bk-jobcreator-docs/main/assets/garage.jpg" alt="Attendant, vehicle exit and return"><figcaption><p>Attendant, vehicle exit and return</p></figcaption></figure>
 
 ## Points
 
@@ -22,4 +22,4 @@ The car icon opens the garage manager.
 
 **Other sites** adds the same garage somewhere else (a second station, a second venue): same vehicles and attendant model, each site with its own attendant, exit and return. A vehicle comes out of the site where you ask for it.
 
-<figure><img src="https://raw.githubusercontent.com/Boy4K/bk-jobcreator-docs/main/bk-jobcreator-docs/assets/garage-sites.jpg" alt="A second site and the vehicles by grade"><figcaption><p>A second site and the vehicles by grade</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/Boy4K/bk-jobcreator-docs/main/assets/garage-sites.jpg" alt="A second site and the vehicles by grade"><figcaption><p>A second site and the vehicles by grade</p></figcaption></figure>

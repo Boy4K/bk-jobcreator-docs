@@ -2,7 +2,7 @@
 
 Each row in the panel is a job; each icon is one of its points.
 
-<figure><img src="https://raw.githubusercontent.com/Boy4K/bk-jobcreator-docs/main/bk-jobcreator-docs/assets/staff-panel.jpg" alt="Three jobs and their points"><figcaption><p>Three jobs and their points</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/Boy4K/bk-jobcreator-docs/main/assets/staff-panel.jpg" alt="Three jobs and their points"><figcaption><p>Three jobs and their points</p></figcaption></figure>
 
 * **Icon colour:** highlighted when the point is ready, red when something is missing, dim when it isn't set.
 * **The number** on an icon tells how many positions that point has.
@@ -17,7 +17,7 @@ Each row in the panel is a job; each icon is one of its points.
 * **Duty** – on/off duty from the [F6 menu](duty-menu.md).
 * **Law enforcement** – radio alerts to colleagues when someone goes on or off duty.
 
-<figure><img src="https://raw.githubusercontent.com/Boy4K/bk-jobcreator-docs/main/bk-jobcreator-docs/assets/job-edit.jpg" alt="Editing a job"><figcaption><p>Editing a job</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/Boy4K/bk-jobcreator-docs/main/assets/job-edit.jpg" alt="Editing a job"><figcaption><p>Editing a job</p></figcaption></figure>
 
 ## Deleting a job
 

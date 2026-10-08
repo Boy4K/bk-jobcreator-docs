@@ -2,7 +2,7 @@
 
 The music icon opens the DJ booth. It needs **xsound**.
 
-<figure><img src="https://raw.githubusercontent.com/Boy4K/bk-jobcreator-docs/main/bk-jobcreator-docs/assets/dj-booth.jpg" alt="Two consoles and a speaker"><figcaption><p>Two consoles and a speaker</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/Boy4K/bk-jobcreator-docs/main/assets/dj-booth.jpg" alt="Two consoles and a speaker"><figcaption><p>Two consoles and a speaker</p></figcaption></figure>
 
 * **Console:** where the DJ opens the music console.
 * **Speaker:** where the sound comes from (optional: without it, from the console).

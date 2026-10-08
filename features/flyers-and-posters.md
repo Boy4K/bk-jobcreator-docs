@@ -4,7 +4,7 @@
 
 At the job's printer, **Print a flyer**: paste an image link, choose how many copies. Only `https` links from the hosts in `Config.Flyers.hosts` are accepted (by default Discord CDN, Fivemanage, Imgur).
 
-<figure><img src="https://raw.githubusercontent.com/Boy4K/bk-jobcreator-docs/main/bk-jobcreator-docs/assets/flyer.jpg" alt="A flyer opened from the inventory"><figcaption><p>A flyer opened from the inventory</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/Boy4K/bk-jobcreator-docs/main/assets/flyer.jpg" alt="A flyer opened from the inventory"><figcaption><p>A flyer opened from the inventory</p></figcaption></figure>
 
 {% hint style="warning" %}
 Discord links expire after about a day. For flyers and posters that must last, use Fivemanage or Imgur.

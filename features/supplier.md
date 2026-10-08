@@ -2,7 +2,7 @@
 
 The truck icon opens the supplier: an NPC the company orders goods from.
 
-<figure><img src="https://raw.githubusercontent.com/Boy4K/bk-jobcreator-docs/main/bk-jobcreator-docs/assets/supplier.jpg" alt="The supplier catalogue"><figcaption><p>The supplier catalogue</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/Boy4K/bk-jobcreator-docs/main/assets/supplier.jpg" alt="The supplier catalogue"><figcaption><p>The supplier catalogue</p></figcaption></figure>
 
 * **Catalogue:** item, shown name, price each, max per order. Items that don't exist in ox\_inventory get a red border.
 * **The company pays**, not the wallet of who orders. If the company account is short, the order doesn't go through.

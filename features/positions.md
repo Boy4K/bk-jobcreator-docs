@@ -2,7 +2,7 @@
 
 Cloakroom, crafting, selling, boss menu, fridge and printer can each have **several positions**: two cloakrooms, three workbenches, a printer in two offices.
 
-<figure><img src="https://raw.githubusercontent.com/Boy4K/bk-jobcreator-docs/main/bk-jobcreator-docs/assets/positions.jpg" alt="Three crafting benches of the same job"><figcaption><p>Three crafting benches of the same job</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/Boy4K/bk-jobcreator-docs/main/assets/positions.jpg" alt="Three crafting benches of the same job"><figcaption><p>Three crafting benches of the same job</p></figcaption></figure>
 
 * Click the icon of a point that isn't set: you go in game to place it.
 * Click the icon of a point that is set: the list of its positions opens, with **Go**, **Move**, **Delete** (two clicks) and **Add a position**.

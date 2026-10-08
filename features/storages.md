@@ -2,7 +2,7 @@
 
 The archive icon in the job row opens the storages manager. A job can have as many storages as it needs.
 
-<figure><img src="https://raw.githubusercontent.com/Boy4K/bk-jobcreator-docs/main/bk-jobcreator-docs/assets/storages.jpg" alt="The storages manager"><figcaption><p>The storages manager</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/Boy4K/bk-jobcreator-docs/main/assets/storages.jpg" alt="The storages manager"><figcaption><p>The storages manager</p></figcaption></figure>
 
 | Type | How it works |
 | --- | --- |

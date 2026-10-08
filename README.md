@@ -1,6 +1,6 @@
 ---
 description: Create and manage every job on your ESX server from one in-game panel.
-cover: https://raw.githubusercontent.com/Boy4K/bk-jobcreator-docs/main/bk-jobcreator-docs/assets/cover.png
+cover: https://raw.githubusercontent.com/Boy4K/bk-jobcreator-docs/main/assets/cover.png
 coverY: 0
 ---
 
@@ -8,7 +8,7 @@ coverY: 0
 
 BK Job Creator lets your staff build every job on the server from a panel in game: grades and salaries, every interaction point, storages, garages, suppliers, crafting, documents, invoices and paid work zones. Everything saves to JSON files on its own and applies to every player at once. **No restarts, no config files to edit by hand.**
 
-<figure><img src="https://raw.githubusercontent.com/Boy4K/bk-jobcreator-docs/main/bk-jobcreator-docs/assets/staff-panel.jpg" alt="The staff panel: each row is a job, each icon one of its points"><figcaption><p>The staff panel: each row is a job, each icon one of its points</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/Boy4K/bk-jobcreator-docs/main/assets/staff-panel.jpg" alt="The staff panel: each row is a job, each icon one of its points"><figcaption><p>The staff panel: each row is a job, each icon one of its points</p></figcaption></figure>
 
 ## What's inside
 
