@@ -9,3 +9,10 @@ site:
       default: true
       content:
         directory: ./untitled
+    - type: space
+      key: space-2
+      title: Copy of Untitled
+      path: copy-of-untitled
+      draft: true
+      content:
+        directory: ./copy-of-untitled
