@@ -38,3 +38,8 @@ BK Job Creator lets your staff build every job on the server from a panel in gam
 {% hint style="success" %}
 The database tables are created automatically when the resource starts. See [Installation](getting-started/installation.md).
 {% endhint %}
+
+
+
+
+
