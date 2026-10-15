@@ -27,6 +27,5 @@ site:
           title: Bk wanted and news
           path: untitled
           default: true
-          draft: true
           content:
             directory: null
