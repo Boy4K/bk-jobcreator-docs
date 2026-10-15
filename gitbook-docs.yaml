@@ -16,3 +16,16 @@ site:
           default: true
           content:
             directory: null
+    - type: section
+      key: section-1
+      title: Bk wanted and news
+      path: bk-wanted-and-news
+      children:
+        - type: space
+          key: space-1
+          title: Bk wanted and news
+          path: untitled
+          default: true
+          draft: true
+          content:
+            directory: null
