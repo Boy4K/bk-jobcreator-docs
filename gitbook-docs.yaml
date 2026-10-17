@@ -16,6 +16,18 @@ site:
           default: true
           content:
             directory: null
+        - type: space
+          key: space-3
+          title: Untitled
+          path: untitled
+          content:
+            directory: null
+        - type: space
+          key: space-4
+          title: Untitled
+          path: untitled-1
+          content:
+            directory: null
     - type: section
       key: section-1
       title: Bk wanted and news
