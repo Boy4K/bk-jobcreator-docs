@@ -16,20 +16,6 @@ site:
           default: true
           content:
             directory: null
-        - type: space
-          key: space-4
-          title: BK STUDIO EDITOR
-          path: bk-studio-editor
-          content:
-            directory: null
-            language: fr
-        - type: space
-          key: space-5
-          title: Copy of BK STUDIO EDITOR
-          path: copy-of-bk-studio-editor
-          draft: true
-          content:
-            directory: ./job_creator/copy-of-bk-studio-editor
     - type: section
       key: section-1
       title: Bk wanted and news
