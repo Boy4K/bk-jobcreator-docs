@@ -29,17 +29,3 @@ site:
           default: true
           content:
             directory: null
-    - type: section
-      key: section-3
-      title: Copy of Bk wanted and news
-      path: copy-of-bk-wanted-and-news
-      description: ""
-      children:
-        - type: space
-          key: space-3
-          title: Copy of Bk wanted and news
-          path: copy-of-bk-wanted-and-news
-          default: true
-          draft: true
-          content:
-            directory: ./copy-of-bk-wanted-and-news
